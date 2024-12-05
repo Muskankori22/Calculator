@@ -1,0 +1,29 @@
+body{
+  background-color: orange;
+}
+#main_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 130px;
+}
+#d1{
+  height:400px;
+  width:250px;
+  background-color: rgb(217, 225, 225);
+  border-radius: 15px;
+  padding-top: 30px;
+}
+input{
+  margin-top:20px;
+  margin-left:6px;
+  height:30px;
+  width:230px;
+}
+button{
+  margin-top: 15px;
+  margin-left: 5px;
+  height:50px;
+  width:50px;
+}
+#c1,
